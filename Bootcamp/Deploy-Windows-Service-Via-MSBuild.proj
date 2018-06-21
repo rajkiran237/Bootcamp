@@ -26,7 +26,7 @@
 		</Otherwise>
 	</Choose>
 	<PropertyGroup>
-		<ProjectName>BootcampDemo</ProjectName>
+		<ProjectName>Bootcamp</ProjectName>
 		<ProjectFile>$(MSBuildProjectDirectory)\$(ProjectName).csproj</ProjectFile>
 		<ServiceExecutablePath>C:\$(ServiceName)\$(ProjectName).exe</ServiceExecutablePath>
 	</PropertyGroup>
