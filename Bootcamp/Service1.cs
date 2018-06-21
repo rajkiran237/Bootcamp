@@ -36,7 +36,7 @@ namespace Bootcamp
                 lines.AddRange(
                 new[] {
                         data,
-                        "In log test for automated build. Added."
+                        "In log test for automated build."
                 });
 
                 File.AppendAllLines("c:\\BootcampDemo.log.txt", lines);
