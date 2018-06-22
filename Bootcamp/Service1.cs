@@ -36,7 +36,7 @@ namespace Bootcamp
                 lines.AddRange(
                 new[] {
                         data,
-                        "In log test for automated build. From Satish, From Raj.",
+                        "In log test for automated build.",
                         DateTime.Now.ToString()
                 });
 
