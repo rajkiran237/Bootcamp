@@ -1,1 +1,2 @@
 C:\Users\rchili\Documents\Projects\Bootcamp\Bootcamp\Bootcamp\bin\Debug\Bootcamp.exe.config
+C:\Users\sd\Documents\C Drive\softwares\Bootcamp\Bootcamp\bin\Debug\Bootcamp.exe.config
